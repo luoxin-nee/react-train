@@ -1,0 +1,23 @@
+.istyle{
+    width: 20px;
+}
+.astyle{
+    text-decoration: none;
+    font-size: 20px;
+    color:black; 
+}
+.pstyle{
+    text-align: left;
+    padding-left: 25px;
+    line-height: 25px;
+}
+.spanstyle{
+    font-size: 20px;
+}
+.mainstyle{
+    background-color: #bfbfbf;
+    padding: 15px 15px;
+    width: 250px;
+    text-align: center;
+    margin-top: 15px;
+}

@@ -1,0 +1,12 @@
+.hTwo{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 300;
+    margin: 5px 0;
+}
+.inputstyle{
+    width: 300px;
+    height: 40px;
+    font-size: 16px;
+    border: 0.3px solid #bfbfbf;
+}
